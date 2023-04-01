@@ -1,0 +1,5 @@
+Fonts can be: .otf, .ttf
+
+Scripts can be: .js or .ts
+
+Folder 'files' can be used for videos, audioes etc.
